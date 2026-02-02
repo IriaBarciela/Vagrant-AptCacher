@@ -17,9 +17,3 @@ El entorno se compone de **5 máquinas virtuales** basadas en Debian Bookworm:
     * Reglas de Firewall con **NFTables**.
     * Servidor Web **Apache** y **Apt-Cacher-NG**.
     * Tareas programadas con **Crontab** y **Anacron**.
-
-## Despliegue
-
-### Requisitos Previos
-* [VirtualBox](https://www.virtualbox.org/) instalado.
-* [Vagrant](https://www.vagrantup.com/) instalado.
